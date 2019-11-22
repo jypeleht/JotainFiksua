@@ -49,6 +49,8 @@ namespace ConsoleApp1
             return onnistuukoMiinus;
         }
 
+        //TODO kerto- ja jakolasku
+
         public static bool Nelilaskin_Test()
         {
             Console.WriteLine("Testauksen tulos:");
