@@ -49,7 +49,12 @@ namespace ConsoleApp1
             return onnistuukoMiinus;
         }
 
-        //TODO kerto- ja jakolasku
+        public int Kertaa(int luku1, int luku2)
+        {
+            return luku1 * luku2;
+        }
+
+        //TODO jakolasku
 
         public static bool Nelilaskin_Test()
         {
