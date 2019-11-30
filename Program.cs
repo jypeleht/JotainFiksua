@@ -18,6 +18,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Kaksi plus kolme on " + nelilaskin.Plus(2, 3));
                 Console.WriteLine("Neljä miinus viisi on " + nelilaskin.Miinus(4, 5));
                 //testataan
+
+                //Lisää testausta
             }
 
             Console.ReadLine();
